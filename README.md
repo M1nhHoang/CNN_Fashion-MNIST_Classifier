@@ -26,3 +26,7 @@ The model's weights are converted from [original repository](https://github.com/
 Total 42,000 different 28 x 28 grayscale images.  
 
 ![image](https://github.com/M1nhHoang/MLP_For_Classifier_Images/assets/106025710/45fff3a8-0774-46e4-8e9a-8dbc994bc15e)
+
+## Result
+![image](https://github.com/M1nhHoang/CNN_Fashion-MNIST_Classifier/assets/106025710/0fea5133-205c-4b61-8734-5a6c894408d6)
+
