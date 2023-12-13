@@ -30,3 +30,5 @@ Total 42,000 different 28 x 28 grayscale images.
 ## Result
 ![image](https://github.com/M1nhHoang/CNN_Fashion-MNIST_Classifier/assets/106025710/0fea5133-205c-4b61-8734-5a6c894408d6)
 
+## Kaggle compertitions: My team - [123TGMT2002-7777](https://www.kaggle.com/competitions/cnn-competition-123/leaderboard)
+[Final result](https://docs.google.com/spreadsheets/d/1q-2ltaBjoGufW0XxyljoMNXtRKogu-SZR0V123Up438)
